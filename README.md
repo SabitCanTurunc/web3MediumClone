@@ -1,10 +1,10 @@
-# Next Wagmi Template
-This a simple ready to use template which uses Next Js's App Router, Wagmi, View and Rainbowkit to make web3 applications.
+# Medium Clone
+This a simple medium clone
 
 ## How to get started
 1. Clone this repo.
 ```
-git clone https://github.com/ScreenTechnicals/next-wagmi-template-v2.git
+git clone https://github.com/SabitCanTurunc/web3MediumClone.git
 ```
 
 2. Install all the dependencies.
